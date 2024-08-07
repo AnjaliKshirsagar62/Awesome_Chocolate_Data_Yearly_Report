@@ -1,5 +1,5 @@
 # Awesome_Data_Yearly_Report
-This project aims to analyze and visualize the yearly sales data of a chocolate company using Power BI. The goal is to provide a comprehensive report that highlights key performance metrics, trends, and insights to support strategic decision-making.
+This project aims to analyze and visualize the yearly sales data of a Awesome chocolate company using Power BI. The goal is to provide a comprehensive report that highlights key performance metrics, trends, and insights to support strategic decision-making.
 
 Objectives
 Trend Analysis: Identify sales trends over the year, including peak sales periods and seasonal variations.
